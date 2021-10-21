@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-# [Live Preview](https://www.google.com)
+# [Live Preview](https://disneyplus-clone-7cbf8.web.app/)
 
 ## Just Clone The repo.
 
